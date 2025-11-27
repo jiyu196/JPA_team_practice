@@ -7,7 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EmpGraphQlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmpGraphQlApplication.class, args);
+
+        SpringApplication.run(EmpGraphQlApplication.class, args);
+
+        System.out.println("Application Started ~~~! hi~ z~ ");
+
+        System.out.println("Hello World!");
 	}
 
 }
