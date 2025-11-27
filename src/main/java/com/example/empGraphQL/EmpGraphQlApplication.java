@@ -12,6 +12,7 @@ public class EmpGraphQlApplication {
 
         System.out.println("Application Started ~~~! hi~ z~ ");
 
+        System.out.println("Hello World!");
 	}
 
 }
